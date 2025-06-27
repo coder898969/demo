@@ -1,2 +1,2 @@
 # demo
-this is the frst git repo 
+this is the frst Git Repository
